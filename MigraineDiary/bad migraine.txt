@@ -1,0 +1,55 @@
+Day:
+
+01 January 2017
+
+Time:
+
+5:00 am - 1:00 am
+
+Severity:
+
+9
+
+Symptoms:
+
+Vomit
+Headache
+Nausea
+Anxiety
+Blurry Vision
+Fever
+
+Extra Symptom Info:
+
+
+
+Triggers:
+
+Caffeine
+Alcohol
+Skipped Meal
+Dehydration
+Allergic Reaction
+
+Extra Trigger Info:
+
+
+
+Aura:
+
+Head/Neck Tingle
+Tingle near eye
+Mood change
+Hunger
+
+Extra Aura Info:
+
+
+
+Medications:
+
+
+
+Additional Information:
+
+
